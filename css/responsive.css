@@ -1,0 +1,8 @@
+@media screen and (max-width: 1220px) {
+  .product {
+    display: block;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 100%;
+  }
+}
